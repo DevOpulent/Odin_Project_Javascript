@@ -52,3 +52,32 @@
     let speed = distance / time;
     console.log(speed);
 
+//JavaScript.info practice
+
+    //1. Declare two variables: admin and name1.
+    //2. Assign the value "Joshua" to name1.
+    //3. Copy the value from name1 to admin.
+    //4. Show the value of admin using alert (must output "Joshua").
+        
+let admin, name1; // can declare two variables at once
+
+name1 = "Joshua";
+
+admin = name1;
+
+alert( admin ); // "Joshua"
+
+//More arithmetic practice
+
+//Increment
+let num1 = 13;
+num1++;
+console.log(num1);
+
+//Decrement
+let num2 = 26;
+num2--;
+console.log(num2)
+
+
+
